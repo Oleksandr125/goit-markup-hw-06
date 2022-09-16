@@ -525,7 +525,7 @@ button {
 }
 
 .footer-social-wrapper {
-  margin-right: 93px;
+  margin-right: auto;
 }
 
 .footer-social-text {
@@ -745,6 +745,7 @@ button {
   align-items: center;
   margin-bottom: 30px;
   cursor: pointer;
+  color: var(--text-light-theme-secondary-color);
 }
 
 .modal-form-own-checkbox {
